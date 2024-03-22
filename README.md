@@ -1,4 +1,4 @@
-# Pokemon Classifier CNN
+# Pokemon Classifier CNN - 20
 
 This repository contains code for a Pokémon image classification project. The goal is to build and train a Convolutional Neural Network (CNN) that can classify images of Pokémon. The dataset used for this project is available on Kaggle: [Pokemon Generation One Dataset](https://www.kaggle.com/thedagger/pokemon-generation-one).
 
